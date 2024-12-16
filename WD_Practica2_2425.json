@@ -1,11 +1,20 @@
 [{
         "id": 0,
         "autor": "Afra Pascual",
-        "titulo": "Web Dinámica",
+        "titulo": "Web Dinámica Curs 204/25",
         "srcimg": "https://afrikiudl.github.io/proyectoswd2324/img/graudiseny.6ef55c0b.jpg",
         "alt": "Persona con gafas de realidad virtual y el texto de Grado de Diseño Digital y Tecnologías Creativas",
 		"texto": "Página web de resumen de las prácticas de los alumnos",
-		"url": "https://afrikiudl.github.io/proyectoswd2324/"
-    }
+		"url": "https://afrikiudl.github.io/proyectoswd2425/"
+    },
+    {
+      "id": 1,
+      "autor": "Afra Pascual",
+      "titulo": "Arte Empatizar",
+      "srcimg": "https://afrikiudl.github.io/arteempatizar/img/empatia.f4d7a209.jpg",
+      "alt": "Dos cerebros intercambiando información para ser más empáticos entre ellos",
+  "texto": "Colección de ejemplos sobre elementos web pero observados desde la perspectiva de personas con discapacidad.",
+  "url": "https://afrikiudl.github.io/arteempatizar/"
+  }
 
 ]
